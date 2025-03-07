@@ -1,0 +1,32 @@
+
+
+/* Start:/local/components/custom/faq/templates/default/style.css?1741279372734*/
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("style");
+?>.faq-container {<br>
+ &nbsp; &nbsp; max-width: 800px;<br>
+ &nbsp; &nbsp; margin: 0 auto;<br>
+ }<br>
+ <br>
+ .faq-item {<br>
+ &nbsp; &nbsp; margin-bottom: 20px;<br>
+ &nbsp; &nbsp; border: 1px solid #eee;<br>
+ &nbsp; &nbsp; padding: 15px;<br>
+ &nbsp; &nbsp; border-radius: 5px;<br>
+ }<br>
+ <br>
+ .faq-question {<br>
+ &nbsp; &nbsp; font-weight: bold;<br>
+ &nbsp; &nbsp; margin-bottom: 10px;<br>
+ &nbsp; &nbsp; cursor: pointer;<br>
+ }<br>
+ <br>
+ .faq-answer {<br>
+ &nbsp; &nbsp; display: none;<br>
+ &nbsp; &nbsp; padding: 10px;<br>
+ &nbsp; &nbsp; background: #f9f9f9;<br>
+ }<br>
+ <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+/* End */
+/* /local/components/custom/faq/templates/default/style.css?1741279372734 */

@@ -1,0 +1,32 @@
+
+
+/* Start:/local/components/custom/faq.list/templates/.default/style.css?1741292598354*/
+.faq-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+.faq-question {
+    padding: 15px;
+    background: #f5f5f5;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.faq-answer {
+    padding: 15px;
+    display: none;
+}
+
+.faq-answer.active {
+    display: block;
+}
+
+/* End */
+/* /local/components/custom/faq.list/templates/.default/style.css?1741292598354 */

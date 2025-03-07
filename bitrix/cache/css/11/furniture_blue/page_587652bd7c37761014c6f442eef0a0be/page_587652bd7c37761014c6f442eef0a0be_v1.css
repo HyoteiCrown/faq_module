@@ -1,0 +1,30 @@
+
+
+/* Start:/local/components/custom/faq/templates/.default/style.css?1741008086385*/
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.faq-question {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.faq-answer {
+    display: none;
+    padding: 10px;
+    background: #f9f9f9;
+}
+
+/* End */
+/* /local/components/custom/faq/templates/.default/style.css?1741008086385 */
